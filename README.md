@@ -10,7 +10,7 @@ Steps:
 
 2. I created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-        (INSERT BAR CHART)
+        ![Top10_OTUsPresent](https://github.com/margoberry17/14-Belly-Button-Challenge/assets/136475202/88c75bdd-38df-48b9-a7fd-d705fcdeb941)
 
 3. I created a bubble chart that displays each sample.
 
