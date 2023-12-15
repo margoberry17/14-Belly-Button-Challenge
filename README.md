@@ -9,6 +9,8 @@ I used the D3 library to read in samples.json from the URL https://2u-data-curri
 
 Dashboard:
 ---------------
+Link to the dashboard: https://margoberry17.github.io/14-Belly-Button-Challenge/
+
 ### Pull Down ###
 - Select the Test Subject ID No. to update all the plots of that chosen sample.
 
